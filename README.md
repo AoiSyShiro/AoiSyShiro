@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=shikiuto&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="shikiuto" /></p>
 
 
-
+<br>
 ###     🐍🐍 Snake game  🐍 🐍 
 
 ![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
