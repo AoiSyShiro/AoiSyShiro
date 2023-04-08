@@ -33,17 +33,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikiuto&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="shikiuto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shik&show_icons=true&locale=en" alt="shik" /></p>
+<p>&nbsp;<img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=shikiuto&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="shikiuto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shik&" alt="shik" /></p>
 
 
 ###     🐍🐍 Snake game  🐍 🐍 
 
 ![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
 
-
-###      ✍️My Quote 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
