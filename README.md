@@ -37,3 +37,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shik&" alt="shik" /></p>
 
+
+###     🐍🐍 Snake game  🐍 🐍 
+
+![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
+
+
+###      ✍️My Quote 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
