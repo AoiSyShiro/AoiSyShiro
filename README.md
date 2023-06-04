@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShiKiuTo](https://github.com/ShiKiuTo)
 
-- 📝 I regularly write articles on [Discord - Fanpage Wibu: Simp Shiro](Discord - Fanpage Wibu: Simp Shiro)
+- 📝 I regularly write articles on [Discord - Fanpage Wibu: ]
 
 - 💬 Ask me about **react, android studio, java, c++, javascript**
 
