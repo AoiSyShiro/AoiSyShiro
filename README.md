@@ -9,15 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/shikiuto" target="blank"><img src="https://img.shields.io/twitter/follow/shikiuto?logo=twitter&style=for-the-badge" alt="shikiuto" /></a> </p>
 
-- 🌱 I’m currently learning **FPT Education**
+- 🌱 I’m currently learning  [**FPT Education**](https://caodang.fpt.edu.vn/)
+
 
 - 👨‍💻 All of my projects are available at [Aojiro](https://github.com/aojiro)
 
-- 📝 I regularly write articles on [Discord - Fanpage Wibu: ]
+- 📝 I regularly write articles on .[Discord - Fanpage Wibu: ](https://www.facebook.com/Aojiro.Z)
 
-- 💬 Ask me about **react, android studio, java, c++, javascript**
+- 💬 Ask me about **React, android studio, java, c++, javascript**
 
-- 📫 How to reach me **https://www.facebook.com/nguyen.th62**
+- 📫 How to reach me [**Facebook**](https://www.facebook.com/nguyen.th62)
 
 - ⚡ Fun fact **I Am Wibu**
 
