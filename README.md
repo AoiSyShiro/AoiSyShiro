@@ -49,6 +49,6 @@
 
 ###     🐍🐍 Snake game  🐍 🐍 
 
-![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
 
 
