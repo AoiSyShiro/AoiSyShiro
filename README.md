@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Aojiro](https://github.com/aojiro)
 
-- 📝 I regularly write articles on .[Discord - Fanpage Wibu: ](https://www.facebook.com/Aojiro.Z)
+- 📝 I regularly write articles on [Discord - Fanpage Wibu: ](https://www.facebook.com/Aojiro.Z)
 
 - 💬 Ask me about **React, android studio, java, c++, javascript**
 
