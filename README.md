@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **FPT Education**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShiKiuTo](https://github.com/Shi-R-o)
+- 👨‍💻 All of my projects are available at [github.com/aojiro](github.com/aojiro)
 
 - 📝 I regularly write articles on [Discord - Fanpage Wibu: ]
 
