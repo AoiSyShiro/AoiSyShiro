@@ -28,8 +28,8 @@
 - 📝 I regularly write articles on [Discord - Fanpage Wibu](https://www.facebook.com/AoiSyShiro)  
   _Mình thường xuyên viết bài về lập trình và Wibu trên [Discord - Fanpage Wibu](https://www.facebook.com/AoiSyShiro)_
 
-- 💬 Ask me about **React, Android Studio, Java, C++, JavaScript**  
-  _Hỏi mình về **React, Android Studio, Java, C++, JavaScript**_
+- 💬 Ask me about **React, Android Studio, Java, C++, JavaScript, Kotlin**  
+  _Hỏi mình về **React, Android Studio, Java, C++, JavaScript, Kotlin**_
 
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/AoiSyShiro)  
   _Liên hệ mình qua: [**Facebook**](https://www.facebook.com/AoiSyShiro)_
