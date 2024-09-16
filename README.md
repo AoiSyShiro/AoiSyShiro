@@ -14,7 +14,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/shikiuto" target="blank">
+  <a href="https://x.com/AoiSyShiro" target="blank">
     <img src="https://img.shields.io/twitter/follow/AoiSyShiro?logo=twitter&style=for-the-badge" alt="AoiSyShiro" />
   </a> 
 </p>
