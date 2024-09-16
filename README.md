@@ -1,15 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Aojiro</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h1 align="center">Xin chào 👋, Mình là AoiSyShiro</h1>
+<h3 align="center">Một nhà phát triển frontend đam mê đến từ Việt Nam</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AoiSyShiro&label=Profile%20views&color=0e75b6&style=flat" alt="shik" /> 
+  <img src="https://komarev.com/ghpvc/?username=AoiSyShiro&label=Lượt%20xem%20trang%20cá%20nhân&color=0e75b6&style=flat" alt="AoiSyShiro" /> 
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AoiSyShiro" alt="shik" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AoiSyShiro" alt="AoiSyShiro" />
   </a> 
 </p>
 
@@ -19,27 +19,27 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning at [**FPT Education**](https://caodang.fpt.edu.vn/)
-- 👨‍💻 All of my projects are available at [Aojiro](https://github.com/AoiSyShiro)
-- 📝 I regularly write articles on [Discord - Fanpage Wibu](https://www.facebook.com/AoiSyShiro)
-- 💬 Ask me about **React, Android Studio, Java, C++, JavaScript**
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/AoiSyShiro)
-- ⚡ Fun fact: **I Am Wibu**
+- 🌱 Hiện tại, mình đang theo học tại [**FPT Education**](https://caodang.fpt.edu.vn/)
+- 👨‍💻 Tất cả các dự án của mình có sẵn tại [GitHub AoiSyShiro](https://github.com/AoiSyShiro)
+- 📝 Mình thường xuyên viết bài về lập trình và Wibu trên [Discord và Fanpage](https://www.facebook.com/AoiSyShiro)
+- 💬 Hỏi mình về **React, Android Studio, Java, C++, JavaScript**
+- 📫 Liên hệ mình qua: [**Facebook**](https://www.facebook.com/AoiSyShiro)
+- ⚡ Sự thật thú vị: **Mình là Wibu chính hiệu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Kết nối với mình:</h3>
 <p align="left">
   <a href="https://x.com/AoiSyShiro" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikiuto" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AoiSyShiro" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/AoiSyShiro" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.th62" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AoiSyShiro" height="30" width="40" />
   </a>
   <a href="https://discord.gg/i210" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ShiK#2085" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Ngôn ngữ và công cụ:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -89,34 +89,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
 </p>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">🔥 Thống kê GitHub 🔥</h2>
 <br>
 <div align="center">
   <a href="#" title="AoiSyShiro">
@@ -129,5 +104,5 @@
 
 <br>
 
-### 🐍🐍 Snake game 🐍🐍
+### 🐍🐍 Trò chơi Snake 🐍🐍
 ![Snake animation](https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
