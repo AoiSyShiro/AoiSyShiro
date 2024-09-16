@@ -3,29 +3,29 @@
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shik&label=Profile%20views&color=0e75b6&style=flat" alt="shik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AoiSyShiro&label=Profile%20views&color=0e75b6&style=flat" alt="shik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shik" alt="shik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AoiSyShiro" alt="shik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shikiuto" target="blank"><img src="https://img.shields.io/twitter/follow/shikiuto?logo=twitter&style=for-the-badge" alt="shikiuto" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shikiuto" target="blank"><img src="https://img.shields.io/twitter/follow/shikiuto?logo=twitter&style=for-the-badge" alt="AoiSyShiro" /></a> </p>
 
 - 🌱 I’m currently learning  [**FPT Education**](https://caodang.fpt.edu.vn/)
 
 
-- 👨‍💻 All of my projects are available at [Aojiro](https://github.com/aojiro)
+- 👨‍💻 All of my projects are available at [Aojiro](https://github.com/AoiSyShiro)
 
-- 📝 I regularly write articles on [Discord - Fanpage Wibu: ](https://www.facebook.com/Aojiro.Z)
+- 📝 I regularly write articles on [Discord - Fanpage Wibu: ](https://www.facebook.com/AoiSyShiro)
 
 - 💬 Ask me about **React, android studio, java, c++, javascript**
 
-- 📫 How to reach me [**Facebook**](https://www.facebook.com/nguyen.th62)
+- 📫 How to reach me [**Facebook**](https://www.facebook.com/AoiSyShiro)
 
 - ⚡ Fun fact **I Am Wibu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shikiuto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikiuto" height="30" width="40" /></a>
-<a href="https://fb.com/nguyen.th62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.th62" height="30" width="40" /></a>
+<a href="https://x.com/AoiSyShiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikiuto" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AoiSyShiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.th62" height="30" width="40" /></a>
 <a href="https://discord.gg/i210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ShiK#2085" height="30" width="40" /></a>
 </p>
 
