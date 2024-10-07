@@ -1,4 +1,4 @@
-
+[![MasterHead](https://pbs.twimg.com/profile_banners/1159470329376284672/1728297305/1500x500](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm AoiSyShiro / Xin chào 👋, Mình là AoiSyShiro</h1>
 <h3 align="center">A passionate frontend developer from Vietnam / Một nhà phát triển frontend đam mê đến từ Việt Nam</h3>
