@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning at FPT Education<br>Hiện tại mình đang theo học tại FPT Education<br><br>👨‍💻 All of my projects are available at AoiSyShiro GitHub<br>Tất cả các dự án của mình có sẵn tại AoiSyShiro GitHub<br><br>📝 I regularly write articles on Discord - Fanpage Wibu<br>Mình thường xuyên viết bài về lập trình và Wibu trên Discord - Fanpage Wibu<br><br>💬 Ask me about React, Android Studio, Java, C++, JavaScript, Kotlin<br>Hỏi mình về React, Android Studio, Java, C++, JavaScript, Kotlin<br><br>📫 How to reach me: Facebook<br>Liên hệ mình qua: Facebook<br><br>⚡ Fun fact: I Am Wibu<br>Sự thật thú vị: Mình là Wibu chính hiệu
-
+🌱 I’m currently learning at FPT Education<br>Hiện tại mình đang theo học tại FPT Education<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/i210) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AoiSyShiro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AoiSyShiro) 
