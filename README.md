@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm AoiSyShiro / Xin chào 👋, Mình là AoiSyShiro</h1>
 <h3 align="center">A passionate frontend developer from Vietnam / Một nhà phát triển frontend đam mê đến từ Việt Nam</h3>
 
+
+  ## 💰 Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://me.momo.vn/imnguyenthang) 
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AoiSyShiro&label=Profile%20views/Lượt%20xem%20trang%20cá%20nhân&color=0e75b6&style=flat" alt="AoiSyShiro" /> 
 </p>
